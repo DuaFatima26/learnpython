@@ -32,7 +32,12 @@
 # for Name in Names:
 #    print (f"my name is {Name}")
 
-Names = [ 1 , "Duaa" , "Jane" , [2 , "yasmeen" , "sharif"], [24 , 78 , 9]]
+# Names = [ 1 , "Duaa" , "Jane" , [2 , "yasmeen" , "sharif"], [24 , 78 , 9]]
 
-print(Names)
-print(Names[:])
+# print(Names)
+# print(Names[:])
+
+# list1 = [1 , 3 , 5 , 6 , 7 , 8, 9, ]
+# list2 = [2 , 6 , "dua", "Jane"]
+# list1.reverse()
+# print(list1)
