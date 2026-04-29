@@ -41,3 +41,19 @@
 # list2 = [2 , 6 , "dua", "Jane"]
 # list1.reverse()
 # print(list1)
+
+# for i in range (1 , 10 , 3):
+#     print(i)
+    
+#     user_input = ""
+# while user_input != "quit":
+#     user_input = input("Enter something (quit to stop): ")
+# name = input("Enter your name: ")
+
+
+     
+     
+name = ""
+
+while name != "duaa":
+      name = input("Enter name: ")
